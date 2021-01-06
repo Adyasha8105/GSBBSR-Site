@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="">
+  <a href="https://girlscript-bhubaneswar.netlify.app/">
       <img width="20%" src="https://user-images.githubusercontent.com/54095539/103772038-d835ae80-504e-11eb-8cbc-a9f8559c9d58.png" class="loaded">
     <h2 align="center">GirlScript Bhubaneswar</h2>
   </a>
@@ -67,12 +67,6 @@ Do you want us to add your favourite feature? Feel free to submit a pull request
 11. Once you push the changes to your repo, the Compare & pull request button will appear in GitHub
 
 12. Open a pull request by clicking the Create pull request button. This allows the repo's maintainers to review your contribution. From here, they can merge it if it is good, or they may ask you to make some changes.
-
-## Our Main Contributors
-
-<a href="https://github.com/Girlscript-Bhubaneswar/GSBBSR-Site/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Girlscript-Bhubaneswar/GSBBSR-Site" />
-</a>
 
 ## License
 
